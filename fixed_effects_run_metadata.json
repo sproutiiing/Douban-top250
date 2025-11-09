@@ -1,0 +1,7 @@
+{
+  "n_movies_used": 250,
+  "n_directors_after_collapse": 22,
+  "min_director_count_for_collapse": 3,
+  "actor_limit_per_movie": 4,
+  "use_log_votes": true
+}
